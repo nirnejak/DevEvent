@@ -8,7 +8,17 @@ This is REST API for Developer Event Finder App. Using this application organize
 git clone https://github.com/JitendraNirnejak/DevEvent.git
 ```
 
-**Install the Dependencies**
+**Install the Dependencies (Django, DjangoRESTFramework, Django-filter)**
 ```sh
 cd DevEventApp
+pipenv install
+```
+
+**Activate the Environment**
+```sh
+pipenv shell
+```
+**Run The Application**
+```sh
+python3 manage.py runserver
 ```
