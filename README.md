@@ -5,7 +5,7 @@ This is REST API for Developer Event Finder App. Using this application organize
 
 **Clone the Repository**
 ```sh
-git clone https://github.com/JitendraNirnejak/DevEvent.git
+git clone https://github.com/nirnejak/DevEvent.git
 ```
 
 **Install the Dependencies (Django, DjangoRESTFramework, Django-filter)**
